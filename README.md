@@ -43,7 +43,7 @@ You can install Dummy Generator using `pnpm`:
    ```
 2. Install NPM packages
    ```sh
-   npm install
+   pnpm install
    ```
 
 <!-- USAGE EXAMPLES -->
